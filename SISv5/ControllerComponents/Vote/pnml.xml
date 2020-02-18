@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<pnml>
+	<place>
+		<name>
+			<value>Vote</value>
+		</name>
+		<scope>
+			<value>SIS.Scope1</value>
+		</scope>
+		<initialCode>
+			<value></value>
+		</initialCode>
+		<helperCode>
+			<value></value>
+		</helperCode>
+		<helperClassCode>
+			<value></value>
+		</helperClassCode>
+	</place>
+	<transition>
+		<name>
+			<value>SendVote</value>
+		</name>
+		<source>
+			<value>Voter</value>
+		</source>
+		<purpose>
+			<value>toSendVotes</value>
+		</purpose>
+		<code>
+			<value></value>
+		</code>
+	</transition>
+</pnml>

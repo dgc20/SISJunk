@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Msg>
+	<Item>
+		<Key>Name</Key>
+		<Value>SendVote</Value>
+	</Item>
+	<Item>
+		<Key>Scope</Key>
+		<Value>SIS.Scope1</Value>
+	</Item>
+	<Item>
+		<Key>MessageType</Key>
+		<Value>Alert</Value>
+	</Item>
+	<Item>
+		<Key>Sender</Key>
+		<Value>Voter</Value>
+	</Item>
+	<Item>
+		<Key>Receiver</Key>
+		<Value>Vote</Value>
+	</Item>
+	<Item>
+		<Key>Date</Key>
+		<Value></Value>
+	</Item>
+	<Item>
+		<Key>CandidateID</Key>
+		<Value>penis chang</Value>
+	</Item>
+</Msg>
+
